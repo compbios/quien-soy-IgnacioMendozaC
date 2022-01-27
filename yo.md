@@ -1,6 +1,5 @@
-# :octocat:**Presentación**:octocat:
+                                                      # :octocat:**Presentación**:octocat:
 
-![enter image description here](https://img2.freepng.es/20180630/kch/kisspng-autocad-dxf-download-hello-world-5b3720b8296648.6132161315303395121696.jpg)
 
   - **Nombre:** Oscar Ignacio Mendoza Cardozo
   - **Edad:** 30 años 🧑
