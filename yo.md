@@ -7,7 +7,7 @@
   - **Profesion:** Fonoaudiólogo  👨‍⚕️
   - **Estudio actual:** MSc en Epidemiología 👨‍🔬 📊 Universidad de Antioquia (https://n9.cl/yaacj).
 
-Soy un apasionado de la ciencia y la investiogación clínica. Además tengo diversos pasatiempos:
+Soy un apasionado de la ciencia y la investigación clínica. Además tengo diversos pasatiempos:
 
   1. Viajar
   
