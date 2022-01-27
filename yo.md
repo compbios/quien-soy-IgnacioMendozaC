@@ -1,6 +1,6 @@
 # :octocat:**Presentación**:octocat:
 ___
-
+![]()
 ## **Datos generales:**
 ___
   - **Nombre:** Oscar Ignacio Mendoza Cardozo
@@ -15,6 +15,8 @@ ___
   2. Explorar la gastronomia de diferentes lugares
   3. Hacer ejercicio
   4. Leer libros de tecnología e inovación 
+
+
 
 **Nota:** Pendiente anexar imagen
 
