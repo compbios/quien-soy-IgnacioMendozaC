@@ -1,6 +1,7 @@
 # :octocat:**Presentación**:octocat:
 ___
-![]()
+![H](hello.jpg)
+___
 ## **Datos generales:**
 ___
   - **Nombre:** Oscar Ignacio Mendoza Cardozo
