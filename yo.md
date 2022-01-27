@@ -10,7 +10,6 @@ ___
   - **Empleo:** Asistente de investigacion, Universidad de Antioquia.
 ## **Pasatiempos:**
 ___
-Soy un apasionado de la ciencia y la investiogación clínica, pero además tengo diversos pasatiempos:
 
   1. Viajar
   2. Explorar la gastronomia de diferentes lugares
