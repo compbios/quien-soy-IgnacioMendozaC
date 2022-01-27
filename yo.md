@@ -14,7 +14,7 @@ Soy un apasionado de la ciencia y la investiogación clínica. Además tengo div
   3. Hacer ejercicio
   4. Leer libros de tecnología e inovación 
 
-![](D:/Oscar Mendoza/Downloads/hello)
+![](D:/Oscar Mendoza/Downloads/hello.jpg)
 
 
 
