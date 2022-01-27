@@ -1,6 +1,8 @@
-Hola soy **Oscar Ignacio Mendoza**
+# Presentación 
 
-![enter image description here](https://www.valoraanalitik.com/wp-content/uploads/2021/09/covid-1-1024x597.jpg)
+- **Nombre:** Oscar Ignacio Mendoza Cardozo
+- **Edad:** 30 años
+- **Profesion:** Fonoaudiólogo 
 
 
 
