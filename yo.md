@@ -17,10 +17,9 @@ ___
   3. Hacer ejercicio
   4. Leer libros de tecnología e inovación 
 
+![](c.jpg)
 
-
-**Nota:** Pendiente anexar imagen
-
+___
 Material guia:
 
 - https://stackedit.io/app#
