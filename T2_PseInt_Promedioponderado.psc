@@ -2,7 +2,7 @@ Algoritmo sin_titulo
 	//Lea las 4 calificaciones de un estudiante y calcule el promedio ponderado del curso: 
 //Parcial 1: 25%
 //Parcial 2: 25%
-//Participación: 20%
+//ParticipaciÃ³n: 20%
 	//Examen final: 30%
 	
 	Escribir "Escriba la calificacion del parcial 1"
